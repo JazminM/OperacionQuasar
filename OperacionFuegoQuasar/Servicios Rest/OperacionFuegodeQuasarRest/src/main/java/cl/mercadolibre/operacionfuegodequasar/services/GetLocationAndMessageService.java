@@ -1,9 +1,0 @@
-package cl.mercadolibre.operacionfuegodequasar.services;
-
-import cl.mercadolibre.operacionfuegodequasar.dto.LocationAndMessageRequest;
-import cl.mercadolibre.operacionfuegodequasar.dto.LocationAndMessageResponse;
-import cl.mercadolibre.operacionfuegodequasar.excepcion.QuasarException;
-
-public interface GetLocationAndMessageService {
-	public LocationAndMessageResponse getLocationAndMessage(LocationAndMessageRequest locationAndMessageRequest) throws QuasarException;
-}
