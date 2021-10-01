@@ -1,0 +1,22 @@
+2021-10-01 14:59:10 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.config.PropertiesConfig - ****************************************************************
+2021-10-01 14:59:10 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.config.PropertiesConfig - **************Bienvenido al servicio de Auxilio*****************
+2021-10-01 14:59:10 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.config.PropertiesConfig - La ubicación de los Satélites actualmente en servicio
+2021-10-01 14:59:10 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.controller.Controller - Ingrese la distancia al emisor del satelite SKYWALKER
+2021-10-01 14:59:10 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.controller.Controller - distancia: 
+2021-10-01 15:20:50 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.controller.Controller - Ingrese la distancia al emisor del satelite SATO
+2021-10-01 15:20:50 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.controller.Controller - distancia: 
+2021-10-01 15:20:54 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.controller.Controller - Ingrese la distancia al emisor del satelite KENOBI
+2021-10-01 15:20:54 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.controller.Controller - distancia: 
+2021-10-01 15:25:15 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.config.PropertiesConfig - ****************************************************************
+2021-10-01 15:25:15 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.config.PropertiesConfig - **************Bienvenido al servicio de Auxilio*****************
+2021-10-01 15:25:15 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.config.PropertiesConfig - La ubicación de los Satélites actualmente en servicio
+2021-10-01 15:25:15 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.config.PropertiesConfig - 1) Skywalker es [100,-100]
+2021-10-01 15:25:15 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.config.PropertiesConfig - 2) Sato es [500,100]
+2021-10-01 15:25:15 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.config.PropertiesConfig - 3) Kenobi es [-500,-200]
+2021-10-01 15:25:15 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.config.PropertiesConfig - Para obtener las coordenadas del emisor, digite las distancias de cada satelite
+2021-10-01 15:25:15 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.controller.Controller - Ingrese la distancia al emisor del satelite SKYWALKER
+2021-10-01 15:25:15 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.controller.Controller - distancia: 
+2021-10-01 15:26:05 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.controller.Controller - Ingrese la distancia al emisor del satelite SATO
+2021-10-01 15:26:05 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.controller.Controller - distancia: 
+2021-10-01 15:26:07 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.controller.Controller - Ingrese la distancia al emisor del satelite KENOBI
+2021-10-01 15:26:07 [main] [INFO ] cl.mercadolibre.operacionfuegodequasar.controller.Controller - distancia: 

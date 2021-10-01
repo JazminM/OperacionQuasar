@@ -1,0 +1,9 @@
+cl\mercadolibre\operacionfuegodequasar\config\PropertiesConfig.class
+cl\mercadolibre\operacionfuegodequasar\model\UneMensaje.class
+cl\mercadolibre\operacionfuegodequasar\OperacionFuegoQuasarApp.class
+cl\mercadolibre\operacionfuegodequasar\model\Coordenada.class
+cl\mercadolibre\operacionfuegodequasar\utils\Utils.class
+cl\mercadolibre\operacionfuegodequasar\services\Services.class
+cl\mercadolibre\operacionfuegodequasar\controller\Controller.class
+cl\mercadolibre\operacionfuegodequasar\services\impl\ServicesImpl.class
+cl\mercadolibre\operacionfuegodequasar\exception\QuasarException.class
