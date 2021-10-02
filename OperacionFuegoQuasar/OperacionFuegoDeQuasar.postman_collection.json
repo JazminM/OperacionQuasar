@@ -1,0 +1,97 @@
+{
+	"info": {
+		"_postman_id": "0533f9bd-18d4-4683-a6c4-8bf8691d88e4",
+		"name": "OperacionFuegoDeQuasar",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET/OperacionFuegoDeQuasar/topsecret_split",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://operacionfuegoquasar-327417.rj.r.appspot.com/OperacionFuegoDeQuasar/topsecret_split",
+					"protocol": "https",
+					"host": [
+						"operacionfuegoquasar-327417",
+						"rj",
+						"r",
+						"appspot",
+						"com"
+					],
+					"path": [
+						"OperacionFuegoDeQuasar",
+						"topsecret_split"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST/OperacionFuegoDeQuasar/topsecret_split/{satellite_name}",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"distance\": 3000,\r\n    \"message\": [\"este\", \"\", \"\", \"hola\", \"\"]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://operacionfuegoquasar-327417.rj.r.appspot.com/OperacionFuegoDeQuasar/topsecret_split/sato",
+					"protocol": "https",
+					"host": [
+						"operacionfuegoquasar-327417",
+						"rj",
+						"r",
+						"appspot",
+						"com"
+					],
+					"path": [
+						"OperacionFuegoDeQuasar",
+						"topsecret_split",
+						"sato"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST/OperacionFuegoDeQuasar/topsecret",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\"satelites\": [\r\n    {\r\n    \"name\": \"kenobi\",\r\n    \"distance\": 100.0,\r\n     \"message\": [\"este\", \"\", \"\", \"mensaje\", \"\"]\r\n    },\r\n    {\r\n    \"name\": \"skywalker\",\r\n    \"distance\": 115.5,\r\n    \"message\": [\"\", \"es\", \"\", \"\", \"secreto\"]\r\n    },\r\n    {\r\n    \"name\": \"sato\",\r\n    \"distance\": 142.7,\r\n    \"message\": 444\r\n    }\r\n]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://operacionfuegoquasar-327417.rj.r.appspot.com/OperacionFuegoDeQuasar/topsecret",
+					"protocol": "https",
+					"host": [
+						"operacionfuegoquasar-327417",
+						"rj",
+						"r",
+						"appspot",
+						"com"
+					],
+					"path": [
+						"OperacionFuegoDeQuasar",
+						"topsecret"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

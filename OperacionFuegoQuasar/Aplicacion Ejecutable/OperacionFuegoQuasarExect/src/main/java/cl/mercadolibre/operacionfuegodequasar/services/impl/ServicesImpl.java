@@ -146,6 +146,8 @@ public class ServicesImpl implements Services {
 			boolean var;	
 			if(mensajeSkyWalker.length == 0 || mensajeSato.length == 0 || mensajeKenobi.length == 0) {
 				System.out.println(MENSAJE_NO_DETERMINADO);
+				System.out.println(PROGRAMA_TERMINADO);
+				System.exit(5);
 			}
 			sateliteSky = utils.obtieneNuevoArray(mensajeSkyWalker, sizeMenor);
 			sateliteSato = utils.obtieneNuevoArray(mensajeSato, sizeMenor);
